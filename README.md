@@ -34,4 +34,7 @@ code interview
 
 Most important is the ability to write clean and correct code—it’s not enough just to be correct. A lot of people will be interacting with your code once you’re on the job, so it should be readable, maintainable, and extensible where appropriate.
 
+Break the problem down and define abstractions. One crucial skill we look for is the ability to handle complexity by breaking problems into manageable sub-problems. For anything non-trivial, you’ll want to avoid writing one giant, monolithic function. Feel free to define helper functions, helper classes, and other abstractions to reach a working solution. You can leverage design patterns or other programming idioms as well. Ideally, your solution will be well-factored and as a result easy to read, understand, and prove correct.
+
+
 
