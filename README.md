@@ -1,4 +1,5 @@
 
+- Algorithms Interview
 
 Algorithms
 
@@ -29,8 +30,7 @@ What are the insertion/deletion/lookup characteristics?(O(logn) for a balanced b
 what are the common caveats?(hashing is tricky, and usually takes O(k) time when k is the size of the object being hashed)
 what algorithms tend to go along with each data structure?(Dijkstra's for a graph)
 
-
-code interview
+- Coding Interview
 
 Most important is the ability to write clean and correct code—it’s not enough just to be correct. A lot of people will be interacting with your code once you’re on the job, so it should be readable, maintainable, and extensible where appropriate.
 
@@ -43,3 +43,7 @@ Code Complete: A Practical Handbook of Software Construction - Steve McConnell
 The Practice of Programming - Brian Kernighan, Rob Pike
 Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, et al.
 Effective Java - Joshua Bloch
+
+- System Design Interview
+
+
